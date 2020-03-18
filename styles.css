@@ -1,4 +1,15 @@
 .cloumn {
     width: 300px;
     float: left;
+    background-color: azure;
+}
+.cloumn1 {
+    width: 300px;
+    float: left;
+    background-color: cadetblue;
+}
+.cloumn2 {
+    width: 300px;
+    float: left;
+    background-color: crimson;
 }
